@@ -1,0 +1,17 @@
+{
+  "name": "@jpctrade/parcel-plugin-gasify",
+  "version": "0.1.0",
+  "keywords": [],
+  "license": "ISC",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "gas-entry-generator": "^1.0.1",
+    "parcel-bundler": "^1.10.3"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
